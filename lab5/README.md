@@ -5,7 +5,7 @@
 - Task 1: Unsharp masking.
 - Task 2: Gaussian filter comparison (5x5 and 21x21).
 - Assessment Task 1: 7x7 box filter smoothing.
-- Assessment Task 2: Laplacian sharpening.
+- Task 3 Laplacian sharpening.
 
 ## Notes
 
